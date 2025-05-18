@@ -18,12 +18,12 @@ pcb (some strawberries because.. celeste): <br>
 ![pcb](https://github.com/mynameisashllee/celestepad/blob/main/assets/pcb.png?raw=true)
 
 ## bom
-7x Cherry MX Switches<br>
-7x DSA Keycaps<br>
-4x Heatset Inserts<br>
-4x M3x16mm screws<br>
-1x XIAO RP2040<br>
-1x Case (with 2 printed parts)<br>
+- 7x cherry MX switches
+- 7x DSA keycaps
+- 4x M3x5mx4mm heatset inserts
+- 4x M3x16mm screws
+- 1x XIAO RP2040
+- 1x case (with 2 printed parts)
 
 ## extras
 this is my first time doing hardware! making a pcb! 3d modelling! had to google a lot but it was worth it (:
