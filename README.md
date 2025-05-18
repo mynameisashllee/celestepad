@@ -1,27 +1,27 @@
 # celestepad
 so... i play the game celeste a little bit, and thought it'd be cool to have a macropad with the bindings i use! (the defaults... haha)
 
-![the whole pad](https://github.com/mynameisashllee/celestepad/blob/main/images/celestepad.png?raw=true)
+![the whole pad](https://github.com/mynameisashllee/celestepad/blob/main/assets/celestepad.png?raw=true)
 
 ## features
 - celestepad uses 7 keys (climb [z], dash [x], jump [c] and arrow keys)
 - regular ol case
 
 how the case looks alone:
-![case design](https://github.com/mynameisashllee/celestepad/blob/main/images/casedesign.png?raw=true)
+![case design](https://github.com/mynameisashllee/celestepad/blob/main/assets/casedesign.png?raw=true)
 
 ## pcb
 schematic:<br>
-![schematic](https://github.com/mynameisashllee/celestepad/blob/main/images/schematic.png?raw=true)
+![schematic](https://github.com/mynameisashllee/celestepad/blob/main/assets/schematic.png?raw=true)
 
 pcb (some strawberries because.. celeste): <br>
-![pcb](https://github.com/mynameisashllee/celestepad/blob/main/images/pcb.png?raw=true)
+![pcb](https://github.com/mynameisashllee/celestepad/blob/main/assets/pcb.png?raw=true)
 
 ## bom
 7x Cherry MX Switches<br>
 7x DSA Keycaps<br>
-7x Heatset Inserts<br>
-7x Bolts<br>
+4x Heatset Inserts<br>
+4x M3x16mm screws<br>
 1x XIAO RP2040<br>
 1x Case (with 2 printed parts)<br>
 
