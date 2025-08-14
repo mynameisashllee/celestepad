@@ -3,6 +3,8 @@ so... i play the game celeste a little bit, and thought it'd be cool to have a m
 
 ![the real thing](https://github.com/mynameisashllee/celestepad/blob/main/assets/realcelestepad.png?raw=true)
 
+check out the demo on [reddit!](https://www.reddit.com/r/celestegame/comments/1mbj6k7/i_made_a_mini_keypad_to_play_celeste/)
+
 ## features
 - celestepad uses 7 keys (climb [z], dash [x], jump [c] and arrow keys. yes, they look inconveniently placed but they work pretty fine)
 - regular ol case (enhanced with air dry clay and craft skills)
